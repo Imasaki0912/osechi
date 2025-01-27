@@ -1,0 +1,2 @@
+# osechi
+初めてのGithub
