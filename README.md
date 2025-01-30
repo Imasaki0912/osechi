@@ -1,2 +1,7 @@
 # osechi
-初めてのGithub
+
+初めての Github
+
+# 今日の朝ごはん
+
+バナナ 🍌
